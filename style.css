@@ -1,0 +1,199 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(248, 246, 246);
+}
+
+header {
+    margin:1%;
+}
+
+.logo{
+    background-color: #222f3e;
+    border-top-left-radius: 10px;
+}
+
+#logo-top{
+    width: 10%;
+    margin-left:3%;
+    margin-top:1%;
+}
+
+.list ul li{
+   list-style: none;
+   display: inline;
+   padding:20px
+   
+}
+
+.list {
+background-color: #364759;
+padding-top:1px;
+padding-bottom:1px;
+margin-top:8px;
+width:100%;
+}
+
+.list a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    margin: 4%;
+}
+
+.bg-orange{
+    background-color: #f56600;
+
+}
+
+.bg-orange h3{
+    padding:10px;
+    color: white;
+    text-align: center;
+}
+
+.bg-image{
+    background-image: url(assets/bg-image.png);
+    height: 120px;
+}
+
+.bg-image {
+    text-align: center;
+}
+
+.bg-image h1 {
+    padding-top: 5%;
+    color: #eaeded;
+}
+
+.bg-image > h4 {
+    color: #eaeded;
+}
+
+.section-container{
+    background-color: white;
+    margin-top: 30px;
+}
+
+.title-container{
+    font-size: larger;
+}
+
+.title-container a {
+   color: #367ec1;
+   text-decoration: none;
+   font-weight: bold;
+   font-size: medium;
+   margin-left: 30px;
+}
+
+.img{
+    width: 304px;
+    height: 379px;
+    object-fit: cover;
+    margin: 1rem;
+    border-radius: 20px;
+}
+
+.card-container {
+    width: 20%;
+    display: inline-block;
+    background-color:white;
+    margin: 5%;
+
+}
+
+.card img{
+    width: 85%;
+    height: 85%;
+}
+
+.card span{
+    color: black;
+    font-size: small;
+}
+
+.img1-2-card {
+    display: flex;
+    flex-direction: row;
+    padding: 10%;
+}
+
+.img3-4-card {
+    display: flex;
+    flex-direction: row;
+    padding: 10%;
+}
+
+section {
+     background-color: rgb(248, 246, 246);
+}
+
+.text-card{
+    font-weight: bold;
+    margin-left:10%
+}
+
+.link-card a{
+    color: #367ec1;
+    text-decoration: none;
+    margin-left:10%;
+}
+
+.img2-container{
+width: 100%;
+}
+
+.img-2{
+    width: 100%;
+    padding: 10px;
+}
+
+.text-2{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+.text-2 a {
+    color: #367ec1;
+    text-decoration: none;
+    margin-left:3% 
+}
+
+.logo-f{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.logo-f img{
+    width: 15%;
+    padding-top: 7%;
+    padding-bottom: 7%;
+}
+
+.back-top {
+    background-color: #364759;
+    text-align: center;
+    padding: 15px;
+}
+
+.back-top a {
+    font-weight: bold;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
